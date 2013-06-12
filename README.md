@@ -1,6 +1,6 @@
 postjava_sandbox
 ================
 
-Scala language's study
+Estudo da linguagem Scala
 
  - Teste de Commit e Push
